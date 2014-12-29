@@ -1,0 +1,15 @@
+{
+  "name": "jiugongsuo",
+  "version": "0.0.0",
+  "description": "模仿安卓手机的开机图案锁",
+  "main": "jiu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "九宫锁",
+    "图案锁"
+  ],
+  "author": "fengliang",
+  "license": "ISC"
+}
